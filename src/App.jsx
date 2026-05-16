@@ -218,7 +218,7 @@ function App() {
             alt="Aura Collection Logo"
             className="brand-logo"
           />
-          <h2>Aura Collection</h2>
+          <h2>Aura Collection By Arhat Athawale</h2>
         </div>
 
         <div className="nav-links">
