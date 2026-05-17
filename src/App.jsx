@@ -185,6 +185,98 @@ const artworks = [
     "A realistic performance sketch capturing musical passion and stage energy through smooth pencil shading."
 },
 
+{
+  id: 22,
+  title: "Young Sheldon",
+  category: "Colored Pencil Art",
+  image: "https://res.cloudinary.com/dvrbbznkv/image/upload/v1778977433/Young_Sheldon_hceh0y.jpg",
+  description:
+    "A colorful portrait inspired by Young Sheldon, capturing innocence, intelligence, and personality through soft shading and expressive details."
+},
+
+{
+  id: 23,
+  title: "Miguel Diaz - Cobra Kai",
+  category: "Colored Pencil Art",
+  image: "https://res.cloudinary.com/dvrbbznkv/image/upload/v1778977432/Miguel7_stzmei.jpg",
+  description:
+    "A warm-toned character illustration created with subtle color blending and detailed facial expression work."
+},
+
+{
+  id: 24,
+  title: "Cobra Kai Legend - Maguel Diaz",
+  category: "Pencil Sketches",
+  image: "https://res.cloudinary.com/dvrbbznkv/image/upload/v1778977431/Miguel6_dcvnix.jpg",
+  description:
+    "A bold martial arts inspired portrait combining classic pencil shading with strong character presence and determination."
+},
+
+{
+  id: 25,
+  title: "Karate Warrior",
+  category: "Anime",
+  image: "https://res.cloudinary.com/dvrbbznkv/image/upload/v1778977429/Miguel5_hnhjtc.jpg",
+  description:
+    "An energetic action sketch representing confidence, discipline, and fighting spirit through dramatic line work."
+},
+
+{
+  id: 26,
+  title: "Bobby Keene",
+  category: "Colored Pencil Art",
+  image: "https://res.cloudinary.com/dvrbbznkv/image/upload/v1778977428/Miguel4_ye372v.jpg",
+  description:
+    "A fan-inspired portrait highlighting emotion and personality through careful detailing and soft artistic coloring."
+},
+
+{
+  id: 27,
+  title: "Miguel Diaz",
+  category: "Pencil Sketches",
+  image: "https://res.cloudinary.com/dvrbbznkv/image/upload/v1778977427/Miguel3_uwsdyg.jpg",
+  description:
+    "A detailed action-inspired character sketch expressing movement, strength, and confidence through realistic pencil work."
+},
+
+{
+  id: 28,
+  title: "Cobra Kai Spirit - Miguel Diaz",
+  category: "Colored Pencil Art",
+  image: "https://res.cloudinary.com/dvrbbznkv/image/upload/v1778977426/Miguel2_fh6uy8.jpg",
+  description:
+    "A vibrant martial arts themed artwork featuring bold contrasts, emotional intensity, and dynamic character composition."
+},
+
+{
+  id: 29,
+  title: "Linkin Park Live",
+  category: "Colored Pencil Art",
+  image: "https://res.cloudinary.com/dvrbbznkv/image/upload/v1778977425/Linkin_Park_d4dhup.jpg",
+  description:
+    "A musical performance illustration inspired by the energy and emotion of live rock performances and iconic stage presence."
+},
+
+{
+  id: 30,
+  title: "Puppet Smile",
+  category: "Colored Pencil Art",
+  image: "https://res.cloudinary.com/dvrbbznkv/image/upload/v1778977424/King2_baxfxo.jpg",
+  description:
+    "A playful fantasy-inspired character artwork combining bright colors, exaggerated expressions, and creative imagination."
+},
+
+{
+  id: 31,
+  title: "Joyful Melody",
+  category: "Anime",
+  image: "https://res.cloudinary.com/dvrbbznkv/image/upload/v1778977423/King1_qlhxu8.jpg",
+  description:
+    "A lively animated-style illustration filled with movement, cheerful emotion, and vibrant artistic storytelling."
+},
+
+
+
 ];
 
 const categories = [
