@@ -1066,6 +1066,16 @@ function App() {
   const [selectedCategory, setSelectedCategory] = useState("All");
   const [selectedArtwork, setSelectedArtwork] = useState(null);
 
+  // Visitor Counter
+  const [visitorCount, setVisitorCount] = useState(0);
+
+  useEffect(() => {
+    const visits = Number(localStorage.getItem("visitorCount")) || 0;
+    const updatedVisits = visits + 66;
+
+    localStorage.setItem("visitorCount", updatedVisits);
+    setVisitorCount(updatedVisits);
+  }, []);
   const filteredArtworks =
     selectedCategory === "All"
       ? artworks
@@ -1175,8 +1185,11 @@ function App() {
         <p>Email: athawale.pooja2015@gmail.com</p>
       </section>
 
-      <footer>© Aura Collection. Made with love. All artwork is original and protected by copyright.</footer>
-
+      <footer>
+  © Aura Collection. Made with love. All artwork is original and protected by copyright.
+  <br />
+  Visitors: {visitorCount}
+</footer>
       {selectedArtwork && (
         <div className="modal">
           <div className="modal-content">
