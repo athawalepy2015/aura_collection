@@ -1,5 +1,5 @@
 import { Moon, Sun, X } from "lucide-react";
-import { useState, useState } from "react";
+import { useEffect, useState } from "react";
 import "./App.css";
 
 const artworks = [
