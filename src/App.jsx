@@ -293,11 +293,11 @@ const artworks = [
 
 {
   id: 33,
-  title: "Minecraft - Golden Warrior",
+  title: "Minecraft - Totem of Undying",
   category: "Fantasy & Creatures",
   image: "https://res.cloudinary.com/dvrbbznkv/image/upload/v1779222996/Totem_of_Undying_zfgjsw.jpg",
   description:
-    "A Minecraft-inspired fantasy artwork created with glowing colors, geometric design, and adventurous energy."
+    "Saves you from death once, granting brief protective effects when activated."
 },
 
 {
