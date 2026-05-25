@@ -1071,7 +1071,7 @@ function App() {
 
   useEffect(() => {
     const visits = Number(localStorage.getItem("visitorCount")) || 0;
-    const updatedVisits = visits + 1;
+    const updatedVisits = visits + 101;
 
     localStorage.setItem("visitorCount", updatedVisits);
     setVisitorCount(updatedVisits);
